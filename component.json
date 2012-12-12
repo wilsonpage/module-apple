@@ -2,12 +2,9 @@
   "name": "module-apple",
   "version": "0.1.0",
   "description": "The web app components repository",
-  "dependencies": {
-    "component/ft-reset": "*",
-    "component/hogan-templater": "*"
-  },
-  "devDependencies": {
-    "component/ft-globals": "*"
+  "dependencies": {},
+  "development": {
+    "wilsonpage/component-globals": "*"
   },
   "author": "Wilson Page"
 }

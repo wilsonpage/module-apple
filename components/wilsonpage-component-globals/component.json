@@ -1,0 +1,13 @@
+{
+  "name": "component-globals",
+  "repo": "wilsonpage/component-globals",
+  "description": "Demo component globals",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "styles": [
+    "lib/style.scss"
+  ],
+  "license": "MIT"
+}
