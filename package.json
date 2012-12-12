@@ -1,0 +1,15 @@
+{
+  "name": "module-apple",
+  "version": "0.1.0",
+  "description": "A large story ui component",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-compass": "~0.3.7",
+    "grunt-hogan": "~0.1.0-2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilsonpage/fruit-components.git"
+  },
+  "author": "Wilson Page"
+}
