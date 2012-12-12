@@ -23,7 +23,7 @@ module.exports = function(grunt) {
         dest: 'build',
         specify: 'src/<%= pkg.name %>.scss',
         outputstyle: 'expanded',
-        importPath: 'component'
+        importPath: './components'
       }
     },
     hogan: {
